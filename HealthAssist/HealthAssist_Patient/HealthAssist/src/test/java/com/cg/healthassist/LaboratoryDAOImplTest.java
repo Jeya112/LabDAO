@@ -17,7 +17,7 @@ import com.cg.healthassist.model.Laboratory;
 public class LaboratoryDAOImplTest {
 	
 	/*
-	 * Instance of an implemented patient dao.
+	 * Instance of an implemented  Laboratory dao.
 	 */
 	private static LaboratoryDAOImpl laboratoryDao;
 	/**

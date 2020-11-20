@@ -7,6 +7,12 @@ import com.cg.healthassist.dao.LaboratoryDAO;
 import com.cg.healthassist.model.Laboratory;
 import com.cg.healthassist.util.JPAUtil;
 
+/**
+ * Implements all the crud operation of LaboratoryDAO interface and also extends JPAUtil for various transactions.
+ * @author Jeya Prashanthini R
+ *
+ */
+
 public class LaboratoryDAOImpl extends JPAUtil implements LaboratoryDAO{
 	@Override
 	public void persist(Laboratory laboratory) {

@@ -8,10 +8,7 @@ import com.cg.healthassist.daoimpl.LaboratoryDAOImpl;
 import com.cg.healthassist.model.Doctor;
 import com.cg.healthassist.model.Laboratory;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
     public static void main( String[] args )
